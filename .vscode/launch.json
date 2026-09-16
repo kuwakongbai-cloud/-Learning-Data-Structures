@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/w/Library/Mobile Documents/com~apple~CloudDocs/-Learning-Data-Structures",
+      "program": "/Users/w/Library/Mobile Documents/com~apple~CloudDocs/-Learning-Data-Structures/build/Debug/outDebug"
+    }
+  ]
+}

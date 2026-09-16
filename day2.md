@@ -71,3 +71,5 @@ int insertNode(Node *L,int pos,ElemType e){
     return 1;
 }
 ```
+单链表-删除节点
+```
